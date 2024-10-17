@@ -1,0 +1,43 @@
+.about {
+    color: #3498db; 
+    text-decoration: none; 
+    font-weight: bold; 
+}
+
+.about:hover {
+    color: red; 
+    text-decoration: underline; 
+}
+
+.about:visited {
+    color: #9b59b6; 
+}
+.blog{
+    color: #3498db; 
+    text-decoration: none; 
+    font-weight: bold; 
+}
+
+.blog:hover {
+    color: red; 
+    text-decoration: underline; 
+}
+
+.blog:visited {
+    color: #9b59b6; 
+}
+
+.contactus {
+    color: #3498db; 
+    text-decoration: none; 
+    font-weight: bold; 
+}
+
+.contactus:hover {
+    color: red; 
+    text-decoration: underline; 
+}
+
+.contactus:visited {
+    color: #9b59b6; 
+}
